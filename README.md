@@ -42,6 +42,6 @@ The dataset is also available here: https://archive.ics.uci.edu/ml/machine-learn
 
 ## Solution Submission:
 
- Please create a git branch in this repo with your lastname, and  push your submissions to the Submissions sub-folder with the naming convention: firstname_lastname_date.
+ Please create a fork of this repo into your GitHub), and create a git branch in and  push your submissions to the Submissions sub-folder with the naming convention: firstname_lastname_date.
  
 
