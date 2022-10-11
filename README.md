@@ -1,7 +1,7 @@
 ## Breast Cancer Cell Detection
 
 
-#### Please time your work, and try to limit yourself to 5 hours time! (if more, please report that exact time)
+#### Please time your work, and try to limit yourself to 5-6 hours time! (if more, please report that exact time)
  
 
 Your task is to develop a model that predicts whether a biopsied breast cell is benign (not harmful) or malignant (cancerous), given a set of attributes about the cell.
